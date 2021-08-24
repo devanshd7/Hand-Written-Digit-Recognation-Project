@@ -1,1 +1,1 @@
-# Hand-Written-Digit-Recognation-Project
+# Hand-Written-Digit-Recognition-Project
